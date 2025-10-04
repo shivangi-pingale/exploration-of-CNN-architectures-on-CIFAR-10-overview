@@ -33,7 +33,9 @@ The framework (`framework/`) folder contains reusable building blocks:
 - `FullyConnectedLayer.py` – Dense layer with weight/bias updates  
 - `LogisticSigmoidLayer.py` – Sigmoid activation  
 - `SoftmaxLayer.py` – Softmax activation for classification  
-- `CrossEntropy.py` – Loss function for training 
+- `CrossEntropy.py` – Loss function for training
+
+The framework folder is not shared in the repository as it is part of course assignments.
 
 ## Dataset  
 - **[CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)**: 60,000 images (32×32, RGB, 10 classes) with 50,000 training and 10,000 testing. 
